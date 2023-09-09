@@ -5,5 +5,5 @@
 
 <details>
       <summary>Languages</summary>
-	<a href="https://www.deutschland.de/" target="_blank" rel="noreferrer">🇩🇪🇬🇧🇺🇸</a>
+	<h1>🇩🇪 🇬🇧 🇺🇸</h1>
 </details>
