@@ -7,4 +7,8 @@
 	<h1>🇩🇪 🇬🇧 🇺🇸</h1>
   </details>
 
-
+<p align="center">
+  <a href="/">
+    <img src="https://skillicons.dev/icons?i=github,html,css,discord,twitter" />
+  </a>
+</p>
