@@ -8,7 +8,7 @@
   </details>
 
 <p align="center">
-  <a href="/">
+  <a href="github.com/Schmuvius">
     <img src="https://skillicons.dev/icons?i=github,html,css,discord,twitter" />
   </a>
 </p>
