@@ -1,7 +1,7 @@
 # Hey! You'll find nothing but trash here. Not even worth looking.
 
 ## 🧑‍💻 About Me
-I'm just another idiot with a passion for **informatics** and a love for **coding**, even though I suck at it. Still, I don't mind getting better or getting teached.
+I'm just another idiot with a passion for **informatics** and a love for **coding**, even though I suck at it. Still, I think I can improve.
 
 I enjoy working on a wide range of projects, from **video editing** to **development**. My current interests revolve around creating **efficient tools**, and exploring **AI**.
 
