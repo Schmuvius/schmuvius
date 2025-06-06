@@ -11,7 +11,7 @@ I enjoy working on a wide range of projects, from **video editing** to **develop
 - **Traveler**: I’ve visited 0 countries and counting.
 
 ### 📫 Let's Connect
-- **Discord**: @schmuvius
+- **Discord**: [schmuvius](https://discord.com/users/392014721303314432)
 - **E-Mail**: schmuvius@proton.me
 
 
